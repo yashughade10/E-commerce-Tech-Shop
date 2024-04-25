@@ -6,7 +6,6 @@ Tech-Shop is a React-based e-commerce web application for purchasing technology 
 
 - **Product Catalog**: Browse a wide range of tech products, including smartphones, laptops, accessories, and more.
 - **Product Search**: Easily search for specific products using keywords or filters.
-- **User Authentication**: Register an account or log in securely to manage orders and preferences.
 - **Shopping Cart**: Add products to a shopping cart and proceed to checkout for payment.
 - **Order Management**: View order history and track the status of orders.
 - **Responsive Design**: Compatible with various devices and screen sizes, including desktops, tablets, and mobile phones.
@@ -16,7 +15,6 @@ Tech-Shop is a React-based e-commerce web application for purchasing technology 
 - **React**: Frontend JavaScript library for building user interfaces.
 - **React Router**: Declarative routing for React applications.
 - **Redux**: State management library for managing application state.
-- **Firebase**: Backend-as-a-Service platform for user authentication and database management.
 - **Bootstrap**: CSS framework for responsive and mobile-first web development.
 - **HTML/CSS**: Markup and styling languages for structuring and designing web pages.
 
