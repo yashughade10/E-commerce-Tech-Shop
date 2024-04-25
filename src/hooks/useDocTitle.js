@@ -5,7 +5,7 @@ const useDocTitle = (title) => {
         if (title) {
             document.title = `${title} - Tech-Shop`;
         } else {
-            document.title = 'Tech-Shop | The Perfect Audio Store';
+            document.title = 'Tech-Beat | The Perfect Audio Store';
         }
     }, [title]);
 

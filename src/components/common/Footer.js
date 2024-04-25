@@ -71,7 +71,7 @@ const Footer = () => {
             <div className="foot_copyright">
               <p>
                 {currYear} | All Rights Reserved. Built by |{" "}
-                <a href="https://gulshansongara.netlify.app/">ADARSHA HELVAR</a>
+                <a href="https://gulshansongara.netlify.app/">YASHWANT UGHADE</a>
               </p>
             </div>
             <div className="foot_social">
